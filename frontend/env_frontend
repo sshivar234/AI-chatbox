@@ -1,0 +1,4 @@
+# AI Chatbot Frontend Environment Variables
+
+# API Configuration
+REACT_APP_API_URL=http://localhost:3001/api
