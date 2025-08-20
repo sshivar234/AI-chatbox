@@ -4,7 +4,7 @@ A modern AI chatbot application built with Node.js, TypeScript, React, and OpenA
 
 ## 🖼️ User Interface
 
-![AI Chatbot UI](https://i.imgur.com/example.png)
+![AI Chatbot UI](https://drive.google.com/file/d/1L_8UBy3zLbp0_XhGDYjwSSy4mmbzGPV_/view?usp=sharing)
 
 **Current UI Features:**
 - **Clean, Modern Design**: Purple gradient background with white card layout
